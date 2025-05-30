@@ -1,4 +1,4 @@
-Package: glmnetfork
+Package: pam
 Type: Package
 Title: Lasso and Elastic-Net Regularized Generalized Linear Models
 Version: 4.1-8
